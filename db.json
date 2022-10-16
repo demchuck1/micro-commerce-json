@@ -1,0 +1,156 @@
+{
+    "category_tree": [{
+            "id": 1,
+            "name": "Kurtki"
+        },
+        {
+            "id": 2,
+            "name": "Swetry"
+        },
+        {
+            "id": 3,
+            "name": "Koszule"
+        },
+        {
+            "id": 4,
+            "name": "Bluzy"
+        }
+    ],
+    "products": [{
+            "id": 1,
+            "name": "Kurtka męska bawełniana zimowa parka khaki Marka 1 V1",
+            "price": 999.99,
+            "image_url": "kurtka_1_variant_1_g1.jpg",
+            "image_gallery": [
+                "kurtka_1_variant_1_g1.jpg",
+                "kurtka_1_variant_1_g2.jpg",
+                "kurtka_1_variant_1_g3.jpg",
+                "kurtka_1_variant_1_g4.jpg",
+                "kurtka_1_variant_1_g5.jpg",
+                "kurtka_1_variant_1_g6.jpg"
+            ],
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "short_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "categories": [
+                1
+            ],
+            "options": [{
+                "options_name": "Rozmiar",
+                "option_id": 0,
+                "options_values": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "options_availability": [
+                    2,
+                    0,
+                    20,
+                    20
+                ]
+            }],
+            "variants": [
+                4,
+                5
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Kurtka męska bawełniana zimowa parka khaki Marka 2",
+            "price": 199.99,
+            "image_url": "kurtka_2.jpg",
+            "image_gallery": [
+                "kurtka_2.jpg",
+                "kurtka_2.jpg"
+            ],
+            "categories": [
+                1,
+                2,
+                3
+            ],
+            "options": [{
+                "options_name": "Rozmiar",
+                "options_values": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "options_availability": [
+                    9,
+                    0,
+                    20,
+                    20
+                ]
+            }]
+        },
+        {
+            "id": 3,
+            "name": "Kurtka męska bawełniana zimowa parka khaki Marka 3",
+            "price": 99.99,
+            "image_url": "kurtka_3.jpg",
+            "image_gallery": [
+                "kurtka_3.jpg",
+                "kurtka_3.jpg"
+            ],
+            "categories": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Kurtka męska bawełniana zimowa parka khaki Marka 1 V2",
+            "price": 899.99,
+            "image_url": "kurtka_1_variant_2.jpg",
+            "options": [{
+                "options_name": "Rozmiar",
+                "option_id": 0,
+                "options_values": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "options_availability": [
+                    2,
+                    0,
+                    20,
+                    20
+                ]
+            }],
+            "variants": [
+                1,
+                5
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Kurtka męska bawełniana zimowa parka khaki Marka 1 V3",
+            "price": 899.99,
+            "image_url": "kurtka_1_variant_3.jpg",
+            "options": [{
+                "options_name": "Rozmiar",
+                "option_id": 0,
+                "options_values": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "options_availability": [
+                    2,
+                    0,
+                    20,
+                    20
+                ]
+            }],
+            "variants": [
+                1,
+                4
+            ]
+        }
+    ]
+}
